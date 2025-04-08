@@ -1,0 +1,6 @@
+# NVS Initial Data
+key,type,encoding,value
+initial,namespace,,
+product,data,string,"skybridge"  
+hwver,data,string,"V1.0"
+ble_addr,data,hex2bin,E2E300112233
